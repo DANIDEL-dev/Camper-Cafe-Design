@@ -59,6 +59,10 @@ h1, h2 {
   width: 25%
 }
 .footer{font-size:14px;
+   margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
 }
 a{color:black;}
 a:visited{color:pink}
